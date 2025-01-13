@@ -1,0 +1,202 @@
+[
+    {
+        "text": "Course",
+        "items": [
+            { "text": "About the Course", "link": "" },
+            { text: 'One', link: '/guide/one' },
+            { text: 'Two', link: '/guide/two' }
+        ]
+    }
+]
+
+[
+    "/foundation/maths1": {
+      "base": "/foundation/maths1",
+      "items": [
+        {
+          "text": "About the course",
+          "link": "/foundation/maths1/about"
+        },
+        {
+          "text": "Important information and links",
+          "link": "/foundation/maths1/info"
+        },
+        {
+          "text": "Reference",
+          "link": "/foundation/maths1/reference"
+        },
+        {
+          "items": [
+            {
+              "text": "Week 1",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week1/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week1/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 2",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week2/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week2/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 3",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week3/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week3/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 4",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week4/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week4/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 5",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week5/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week5/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 6",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week6/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week6/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 7",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week7/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week7/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 8",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week8/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week8/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 9",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week9/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week9/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 10",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week10/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week10/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 11",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week11/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week11/questions"
+                }
+              ]
+            },
+            {
+              "text": "Week 12",
+              "collapsed": true,
+              "items": [
+                {
+                  "text": "Content",
+                  "link": "/foundation/maths1/week12/content"
+                },
+                {
+                  "text": "Questions",
+                  "link": "/foundation/maths1/week12/questions"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+]

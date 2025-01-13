@@ -1,0 +1,234 @@
+basic-info:
+  base-url: /iitm-bs-ds/diploma-programming/java/
+  basic-files:
+  - link: about
+    text: About the course
+  - link: info
+    text: Information and links
+  playlist-url: https://www.youtube.com/playlist?list=PLZ2ps__7DhBaXTORd_OKXZRXCMh3dGnBZ
+  strategy: topics 12 week
+  topics:
+  - name: Week 1
+    span: 1-6
+  - name: Week 2
+    span: 7-11
+  - name: Week 3
+    span: 12-16
+  - name: Week 4
+    span: 17-27
+  - name: Week 5
+    span: 28-32
+  - name: Week 6
+    span: 33-36
+  - name: Week 7
+    span: 37-41
+  - name: Week 8
+    span: 42-45
+  - name: Week 9
+    span: 46-49
+  - name: Week 10
+    span: 50-54
+  - name: Week 11
+    span: 55-58
+  - name: Week 12
+    span: 59-61
+contents:
+  week1:
+    title: Week 1
+    videos:
+    - id: 3a1FXBR6QXY
+      title: Introduction
+    - id: 0Gl9ygUk4K8
+      title: Types
+    - id: b4nsGWXNm2c
+      title: Memory Management
+    - id: 8ciDI5cUhSs
+      title: Abstraction and Modularity
+    - id: NmYcNMPUlzY
+      title: Object Oriented Programming
+    - id: TJC0WhS6FNo
+      title: Classes and Objects
+  week10:
+    title: Week 10
+    videos:
+    - id: sK1-Qkeh8mE
+      title: Monitors
+    - id: Srz0mewFaEg
+      title: Monitors in Java
+    - id: htwvFDP5t5I
+      title: Thread in Java
+    - id: yI_WSIaFbFQ
+      title: 'Concurrent Programming: An Example'
+    - id: yDmnozJBKic
+      title: Thread Safe Collection
+    - id: A_BV43krS2I
+      title: Graphical Interfaces and Event-Driven Programming
+  week11:
+    title: Week 11
+    videos:
+    - id: sV4ItidrL8s
+      title: The SwingToolKit
+    - id: c6Z8BNSv9zY
+      title: More Swing Examples
+  week12:
+    title: Week 12
+    videos: []
+  week2:
+    title: Week 2
+    videos:
+    - id: ULpvhw2hmSg
+      title: A First Taste of Java
+    - id: IwTdVsLxz04
+      title: Basic Datatypes in Java
+    - id: 0RHDEourhdo
+      title: Control Flow in Java
+    - id: XB-PcJJpKXg
+      title: Defining Classes and Object in Java
+    - id: zvtvQcUhFxo
+      title: Basic Input and Output in Java
+    - id: PF6bAB-d9hI
+      title: The Philosophy of 00 Programming
+  week3:
+    title: Week 3
+    videos:
+    - id: 6tDGUnETvv4
+      title: Subclasses and inheritance
+    - id: 2BRAgwZamIU
+      title: Dynamic dispatch and polymorphism
+    - id: WRN3QWICaag
+      title: The Java class hierarchy
+    - id: IO-K87_QXGs
+      title: Java modifiers
+    - id: CYY7IT-YHVA
+      title: Subtyping vs inheritance
+    - id: zN-6WryuloU
+      title: Dynamic dispatch and polymorphism
+  week4:
+    title: Week 4
+    videos:
+    - id: 3N1GBpxmr4g
+      title: JAVA - Activity Questions - Week 3
+    - id: rT0aUzLS2fI
+      title: JAVA - Practice Session - Week 3
+    - id: aM2Ew6JxMTo
+      title: JAVA - Open Session - Week 3
+    - id: RiGkT9NDof4
+      title: Abstract Classes and Interfaces
+    - id: adkU2TMbJfk
+      title: Interfaces
+    - id: 6eZ9mNX-GQ8
+      title: Private Classes
+  week5:
+    title: Week 5
+    videos:
+    - id: YefHD5_AGiw
+      title: Controlled Interaction with Objects
+    - id: BG_Btui0K1o
+      title: Iterators
+    - id: CKjGnZCvlng
+      title: CallBacks
+    - id: xvzxGV3pdMM
+      title: Polymorphism Revisited
+    - id: wqqOMQb0ft0
+      title: Generic Programming in Java
+    - id: Dd9rAJo5H9s
+      title: Java Generics and Subtyping
+  week6:
+    title: Week 6
+    videos:
+    - id: bPpWwY6YLyg
+      title: Reflection
+    - id: V7l0pVIIaEU
+      title: Java Generics at Run Time
+    - id: LY7TRCI3z24
+      title: The Benefits of Indirection
+    - id: -EwtNZTsOVw
+      title: Collection
+    - id: XPzVy2DyO6E
+      title: Concrete Collections
+    - id: fWXf5aI3Cr0
+      title: Maps
+  week7:
+    title: Week 7
+    videos:
+    - id: 5t0UPIdDYo4
+      title: Dealing With Errors
+    - id: hsVEjkYKjpg
+      title: Exceptions in Java
+    - id: U_rxCLyJHgw
+      title: Packages
+    - id: hKl3tCQdfTI
+      title: Assertions
+    - id: fkGfOzVC8zI
+      title: Logging
+    - id: aJxPvy1poaU
+      title: Cloning
+  week8:
+    title: Week 8
+    videos:
+    - id: o1cQO3iB2Ok
+      title: Type Inference
+    - id: 4nrbgx0e4RA
+      title: Higher Order Functions
+    - id: 4zZc3Ko47sQ
+      title: '[Private video]'
+    - id: xs94mCRwqVQ
+      title: Streams
+    - id: 3Q7Rp6sxE_M
+      title: Optional Types
+    - id: v0fNOGui3Wg
+      title: Collecting Results From Streams
+  week9:
+    title: Week 9
+    videos:
+    - id: FFdDai4qf8w
+      title: Input/Output Streams
+    - id: oweQzNSHA5I
+      title: Serialization
+    - id: dR0_7AmJKKk
+      title: 'Concurrency: Threads and Processes'
+    - id: a9PZhjCKm9k
+      title: Race Conditions
+    - id: i6FNvH3ULMU
+      title: Mutual Exclusion
+    - id: MbFbJy3mkqI
+      title: Test and Set
+sidebar:
+- base: /iitm-bs-ds/diploma-programming/java/
+  items:
+  - link: index
+    text: Home
+  - link: notes
+    text: Notes
+  - link: about
+    text: About the course
+  - link: info
+    text: Information and links
+  text: Course
+- base: /iitm-bs-ds/diploma-programming/java/
+  items:
+  - link: week1
+    text: Week 1
+  - link: week2
+    text: Week 2
+  - link: week3
+    text: Week 3
+  - link: week4
+    text: Week 4
+  - link: week5
+    text: Week 5
+  - link: week6
+    text: Week 6
+  - link: week7
+    text: Week 7
+  - link: week8
+    text: Week 8
+  - link: week9
+    text: Week 9
+  - link: week10
+    text: Week 10
+  - link: week11
+    text: Week 11
+  - link: week12
+    text: Week 12
+  text: Contents

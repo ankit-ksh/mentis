@@ -1,0 +1,192 @@
+{
+  "/iitm-bs-ds/foundation/maths1/": [
+    {
+      "base": "/iitm-bs-ds/foundation/maths1/",
+      "items": [
+        {
+          "link": "index",
+          "text": "Home"
+        },
+        {
+          "link": "about",
+          "text": "About the Course"
+        },
+        {
+          "link": "info",
+          "text": "Infomation and links"
+        }
+      ],
+      "text": "Course"
+    },
+    {
+      "base": "/iitm-bs-ds/foundation/maths1/",
+      "items": [
+        {
+          "link": "week1",
+          "text": "Week 1"
+        },
+        {
+          "link": "week2",
+          "text": "Week 2"
+        },
+        {
+          "link": "week3",
+          "text": "Week 3"
+        },
+        {
+          "link": "week4",
+          "text": "Week 4"
+        },
+        {
+          "link": "week5",
+          "text": "Week 5"
+        }
+      ],
+      "text": "Contents"
+    }
+  ],
+  "/iitm-bs-ds/foundation/maths2/": [
+    {
+      "base": "/iitm-bs-ds/foundation/maths2/",
+      "items": [
+        {
+          "link": "index",
+          "text": "Homepage"
+        },
+        {
+          "link": "info",
+          "text": "Infomation and links"
+        }
+      ],
+      "text": "Course"
+    },
+    {
+      "base": "/iitm-bs-ds/foundation/maths2/",
+      "items": [
+        {
+          "link": "week1",
+          "text": "Week 1"
+        },
+        {
+          "link": "week2",
+          "text": "Week 2"
+        },
+        {
+          "link": "week3",
+          "text": "Week 3"
+        },
+        {
+          "link": "week4",
+          "text": "Week 4"
+        },
+        {
+          "link": "week5",
+          "text": "Week 5"
+        },
+        {
+          "link": "week6",
+          "text": "Week 6"
+        },
+        {
+          "link": "week7",
+          "text": "Week 7"
+        },
+        {
+          "link": "week8",
+          "text": "Week 8"
+        },
+        {
+          "link": "week9",
+          "text": "Week 9"
+        },
+        {
+          "link": "week10",
+          "text": "Week 10"
+        },
+        {
+          "link": "week11",
+          "text": "Week 11"
+        },
+        {
+          "link": "week12",
+          "text": "Week 12"
+        }
+      ],
+      "text": "Contents"
+    }
+  ],
+  "/iitm-bs-ds/diploma-programming/java/": [
+    {
+      "base": "/iitm-bs-ds/diploma-programming/java/",
+      "items": [
+        {
+          "link": "about",
+          "text": "About the course"
+        },
+        {
+          "link": "info",
+          "text": "Information and links"
+        },
+        {
+          "link": "index",
+          "text": "Home"
+        }
+      ],
+      "text": "Course"
+    },
+    {
+      "base": "/iitm-bs-ds/diploma-programming/java/",
+      "items": [
+        {
+          "link": "week1",
+          "text": "Week 1"
+        },
+        {
+          "link": "week2",
+          "text": "Week 2"
+        },
+        {
+          "link": "week3",
+          "text": "Week 3"
+        },
+        {
+          "link": "week4",
+          "text": "Week 4"
+        },
+        {
+          "link": "week5",
+          "text": "Week 5"
+        },
+        {
+          "link": "week6",
+          "text": "Week 6"
+        },
+        {
+          "link": "week7",
+          "text": "Week 7"
+        },
+        {
+          "link": "week8",
+          "text": "Week 8"
+        },
+        {
+          "link": "week9",
+          "text": "Week 9"
+        },
+        {
+          "link": "week10",
+          "text": "Week 10"
+        },
+        {
+          "link": "week11",
+          "text": "Week 11"
+        },
+        {
+          "link": "week12",
+          "text": "Week 12"
+        }
+      ],
+      "text": "Contents"
+    }
+  ]
+}

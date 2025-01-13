@@ -1,0 +1,704 @@
+{
+  "week1": {
+    "title": "Week 1",
+    "notes": true,
+    "reference": true,
+    "books": [
+      {
+        "title": "Introduction to Data Science",
+        "link": "https://raw.githubusercontent.com/Saurav6789/Books-/blob/master/ML_AndrewNG.pdf"
+      }
+    ],
+    "videos": [
+      {
+        "id": "0WHixZdnxTQ",
+        "title": "Some topics from maths 1"
+      },
+      {
+        "id": "G69JB5310vA",
+        "title": "Functions of one variable"
+      },
+      {
+        "id": "EIwT-ibJ7bA",
+        "title": "Graphs and tangents"
+      },
+      {
+        "id": "1uySBjXUR1k",
+        "title": "Limits for sequences"
+      },
+      {
+        "id": "wXPoDGuv1wM",
+        "title": "Limits for functions of one variable"
+      },
+      {
+        "id": "MsWKI3AlurM",
+        "title": "Week 01 - Tutorial 01"
+      },
+      {
+        "id": "rMK4GaWpoXU",
+        "title": "Week 01 - Tutorial 01"
+      },
+      {
+        "id": "xG7Ii18HMm8",
+        "title": "Week 01 - Tutorial 02"
+      },
+      {
+        "id": "TL2rliCK_Vg",
+        "title": "Week 01 - Tutorial 02"
+      },
+      {
+        "id": "pEpeKw8acfs",
+        "title": "Week 01 - Tutorial 03"
+      },
+      {
+        "id": "oB1ws3Vk49E",
+        "title": "Week 01 - Tutorial 03"
+      },
+      {
+        "id": "qtwwkVuWmPQ",
+        "title": "Week 01 - Tutorial 04"
+      },
+      {
+        "id": "Zenj3dOF9Hc",
+        "title": "Week 01 - Tutorial 04"
+      },
+      {
+        "id": "jrfIGJqESro",
+        "title": "Week 01 - Tutorial 05"
+      }
+    ]
+  },
+  "week10": {
+    "title": "Week 10",
+    "videos": [
+      {
+        "id": "vlZIhKlM6bc",
+        "title": "Week 09 - Tutorial 03"
+      },
+      {
+        "id": "CadYHZuxSCg",
+        "title": "Week 09 - Tutorial 04"
+      },
+      {
+        "id": "65wV32DCtVA",
+        "title": "Week 09 - Tutorial 05"
+      },
+      {
+        "id": "33BLotzDF0g",
+        "title": "Week 09 - Tutorial 06"
+      },
+      {
+        "id": "oHnLq0qzQ9g",
+        "title": "Week 09 - Tutorial 07"
+      },
+      {
+        "id": "MfrAPZRrqxw",
+        "title": "Multivariable functions : visualization"
+      },
+      {
+        "id": "GoJoNFBuCJ8",
+        "title": "Partial derivatives"
+      },
+      {
+        "id": "uhUqybTaGns",
+        "title": "Directional derivatives"
+      },
+      {
+        "id": "Uvv8-Ujgqjo",
+        "title": "Limits for scalar-valued multivariable functions"
+      },
+      {
+        "id": "_G6UYEZYaGk",
+        "title": "Continuity for multivariable functions"
+      },
+      {
+        "id": "2eYER90_4wA",
+        "title": "Directional derivatives in terms of the gradient"
+      },
+      {
+        "id": "UJFe9JIBogc",
+        "title": "Week 10 - Tutorial 0"
+      },
+      {
+        "id": "EjfbiruR85Q",
+        "title": "Week 10 - Tutorial 02"
+      },
+      {
+        "id": "wj73NcPIeZE",
+        "title": "Week 10 - Tutorial 03"
+      }
+    ]
+  },
+  "week11": {
+    "title": "Week 11",
+    "videos": [
+      {
+        "id": "SEevQPGIJSE",
+        "title": "Week 10 - Tutorial 04"
+      },
+      {
+        "id": "iaITq1eiQPM",
+        "title": "Week 10 - Tutorial 05"
+      },
+      {
+        "id": "qcT49XqFzXo",
+        "title": "Week 10 - Tutorial 06"
+      },
+      {
+        "id": "0H7ca6dFvQ8",
+        "title": "The direction of steepest ascent/descent"
+      },
+      {
+        "id": "9yeyc472W5Q",
+        "title": "Tangents for scalar-valued multivariable functions"
+      },
+      {
+        "id": "bz1gtPvNIAg",
+        "title": "Finding the tangent hyper(plane)"
+      },
+      {
+        "id": "9pciPOO19wQ",
+        "title": "Critical points for multivariable functions"
+      },
+      {
+        "id": "noecviNSwrA",
+        "title": "Week 11 - Tutorial 01"
+      },
+      {
+        "id": "ar_oKHBKiXU",
+        "title": "Week 11 - Tutorial 02"
+      },
+      {
+        "id": "SJlhzeiTdEQ",
+        "title": "Week 11 - Tutorial 03"
+      },
+      {
+        "id": "JtQC-GpsQZc",
+        "title": "Week 11 - Tutorial 04"
+      },
+      {
+        "id": "t93ygun2x2A",
+        "title": "Week 11 - Tutorial 05"
+      },
+      {
+        "id": "0TBel8RprOw",
+        "title": "Week 11 - Tutorial 06"
+      },
+      {
+        "id": "SNAyzb35MAc",
+        "title": "Higher order partial derivatives and the Hessian matrix"
+      }
+    ]
+  },
+  "week12": {
+    "title": "Week 12",
+    "videos": [
+      {
+        "id": "XJH8RJ5m3OU",
+        "title": "The Hessian matrix and local extrema for f(x,y)"
+      },
+      {
+        "id": "QOqj5I8q_eU",
+        "title": "The Hessian matrix and local extrema for f(x,y,z)"
+      },
+      {
+        "id": "tbd1xs-ZeU4",
+        "title": "Differentiability for Multivariable Functions"
+      },
+      {
+        "id": "_hLYDPQtDKY",
+        "title": "Review of Maths - 2"
+      }
+    ]
+  },
+  "week2": {
+    "title": "Week 2",
+    "videos": [
+      {
+        "id": "OOAEXJsgUBM",
+        "title": "Week 01 - Tutorial 05"
+      },
+      {
+        "id": "KIZq6N-1ewI",
+        "title": "Week 01 - Tutorial 06"
+      },
+      {
+        "id": "g7C2O4P7yjM",
+        "title": "Week 01 - Tutorial 07"
+      },
+      {
+        "id": "KK1cbakBHCE",
+        "title": "Week 01 - Tutorial 08"
+      },
+      {
+        "id": "3d36ENBUoig",
+        "title": "Week 01 - Tutorial 09"
+      },
+      {
+        "id": "RPwqUgCbNA8",
+        "title": "Week 01 - Tutorial 10"
+      },
+      {
+        "id": "tRJTkQpIU9Y",
+        "title": "Week 1 - Revision"
+      },
+      {
+        "id": "do-iDBxQCpw",
+        "title": "Limits and continuity"
+      },
+      {
+        "id": "w8R2RdS6xQ4",
+        "title": "Differentiability and the derivative"
+      },
+      {
+        "id": "Ah3laZhgHus",
+        "title": "Computing derivatives and L'H\u00f4pital's rule"
+      },
+      {
+        "id": "4IpVR6QpBok",
+        "title": "Derivatives, tangents and linear approximation"
+      },
+      {
+        "id": "Th5VUAdbSy0",
+        "title": "Week 02 - Tutorial 01"
+      },
+      {
+        "id": "dYQlotGp5QE",
+        "title": "Week 02 - Tutorial 02"
+      },
+      {
+        "id": "jTB5dWOLo9s",
+        "title": "Week 02 - Tutorial 03"
+      }
+    ]
+  },
+  "week3": {
+    "title": "Week 3",
+    "notes": true,
+    "videos": [
+      {
+        "id": "sRK1ZSWUX3w",
+        "title": "Week 02 - Tutorial 04"
+      },
+      {
+        "id": "-IFBgN_qkzA",
+        "title": "Week 02 - Tutorial 05"
+      },
+      {
+        "id": "qwL-g1j3fqU",
+        "title": "Week 02 - Tutorial 06"
+      },
+      {
+        "id": "RSlIwizbMkQ",
+        "title": "Week 02 - Tutorial 07"
+      },
+      {
+        "id": "8H0EyejZ3zI",
+        "title": "Week 2 -  Revision Session"
+      },
+      {
+        "id": "wUPkaBwF1-Y",
+        "title": "Critical points : local maxima and minima"
+      },
+      {
+        "id": "LvCh7GTke2E",
+        "title": "Examples : Computing Maxima and Minima"
+      },
+      {
+        "id": "ZehrWVYoJ_s",
+        "title": "Computing areas"
+      },
+      {
+        "id": "qEZiq3QQBok",
+        "title": "Riemann sums and the integral"
+      },
+      {
+        "id": "EeE-4Tp2yGA",
+        "title": "Integrals as anti-derivatives"
+      },
+      {
+        "id": "79YBSjrg19w",
+        "title": "Computing areas using integrals"
+      },
+      {
+        "id": "r_QsjHqSNcs",
+        "title": "Week 03 - Tutorial 01"
+      },
+      {
+        "id": "kc6GgdK_VHg",
+        "title": "Week 03 - Tutorial 02"
+      },
+      {
+        "id": "XlN-3VnaFJU",
+        "title": "Week 03 - Tutorial 03"
+      }
+    ]
+  },
+  "week4": {
+    "title": "Week 4",
+    "videos": [
+      {
+        "id": "KS5ybCJSLUI",
+        "title": "Week 03 - Tutorial 04"
+      },
+      {
+        "id": "_Y96gfJPwpg",
+        "title": "Week 03 - Tutorial 05"
+      },
+      {
+        "id": "jMeTX1yoLgo",
+        "title": "Week 03 - Tutorial 06"
+      },
+      {
+        "id": "vDsKyLgLLzA",
+        "title": "Week 03 - Tutorial 08"
+      },
+      {
+        "id": "4_O4g5qY8go",
+        "title": "Week 03 - Tutorial 09"
+      },
+      {
+        "id": "1So2VV9Tm_A",
+        "title": "Vectors"
+      },
+      {
+        "id": "rnIDlZnrCc0",
+        "title": "Matrices"
+      },
+      {
+        "id": "WzR4NKeLHMY",
+        "title": "Systems of Linear Equations"
+      },
+      {
+        "id": "A3fxp49I4U8",
+        "title": "Determinants (part 1)"
+      },
+      {
+        "id": "wejxX0YYYg4",
+        "title": "Determinants (part 2)"
+      },
+      {
+        "id": "5wdSQzZDZME",
+        "title": "Week 4 Tutorial 06"
+      },
+      {
+        "id": "deoLXUT9E60",
+        "title": "Week 4 Tutorial 07"
+      },
+      {
+        "id": "kbeuYmC7dp4",
+        "title": "Week 4 Tutorial 08"
+      },
+      {
+        "id": "x9Dv61Ml910",
+        "title": "Refresher week -  tutorial 1"
+      }
+    ]
+  },
+  "week5": {
+    "title": "Week 5",
+    "videos": [
+      {
+        "id": "S6hzxX1AIBU",
+        "title": "Refresher week - tutorial 2"
+      },
+      {
+        "id": "US18ZBaHO1Q",
+        "title": "Refresher week - Tutorial 3"
+      },
+      {
+        "id": "lBqVQxUYTIs",
+        "title": "Refresher week - tutorial 4"
+      },
+      {
+        "id": "Z9jpB1gK-PQ",
+        "title": "Refresher week - tutorial 5"
+      },
+      {
+        "id": "nNWcu09Qo04",
+        "title": "Refresher week - tutorial 6"
+      },
+      {
+        "id": "uO3mocPU9Q4",
+        "title": "Determinants (part 3)"
+      },
+      {
+        "id": "sOFHgNXXRFM",
+        "title": "Cramer's Rule"
+      },
+      {
+        "id": "0txe9Mu5OdM",
+        "title": "Solutions to a system of linear equationswith an invertible coefficient matrix"
+      },
+      {
+        "id": "6N8owlkf9AQ",
+        "title": "The echelon form"
+      },
+      {
+        "id": "ECRhKDTUxM8",
+        "title": "Row reduction"
+      },
+      {
+        "id": "gdk1_aEe7j4",
+        "title": "The Gaussian elimination method"
+      },
+      {
+        "id": "k5GlgJkdRBU",
+        "title": "Week 05 - Tutorial 01"
+      },
+      {
+        "id": "R5S2bPGErWs",
+        "title": "Week 05 - Tutorial 02"
+      },
+      {
+        "id": "3xjDfMoGlCM",
+        "title": "Week 05 - Tutorial 03"
+      }
+    ]
+  },
+  "week6": {
+    "title": "Week 6",
+    "videos": [
+      {
+        "id": "VyoyjXx1UFg",
+        "title": "Week 05 - Tutorial 04"
+      },
+      {
+        "id": "_O0yZXIWWv0",
+        "title": "Week 05 - Tutorial 05"
+      },
+      {
+        "id": "ZCUivTd2yu0",
+        "title": "Week 5 Tutorial 06"
+      },
+      {
+        "id": "zixmz3zRpJE",
+        "title": "Week 5 Tutorial 07"
+      },
+      {
+        "id": "cPJJ_8BY1VY",
+        "title": "Week 5 Tutorial 08"
+      },
+      {
+        "id": "SxPhClO9zSU",
+        "title": "Finding bases for vector spaces"
+      },
+      {
+        "id": "yUISwV4LE20",
+        "title": "Some properties of vector spaces"
+      },
+      {
+        "id": "1Krnnc6wKyk",
+        "title": "Linear dependence"
+      },
+      {
+        "id": "Uf5nqIJv1Fk",
+        "title": "Linear independence - Part 1"
+      },
+      {
+        "id": "9Adm4c2alAY",
+        "title": "Linear independence - Part 2"
+      },
+      {
+        "id": "lhAQIaFOPxA",
+        "title": "What is a basis for a vector space?"
+      },
+      {
+        "id": "dAttVL9a5Go",
+        "title": "Introduction to vector spaces"
+      },
+      {
+        "id": "aKziQ7vYvcs",
+        "title": "Week 06   Tutorial 01"
+      },
+      {
+        "id": "WxAil6kpPCQ",
+        "title": "Week 06   Tutorial 02"
+      }
+    ]
+  },
+  "week7": {
+    "title": "Week 7",
+    "videos": [
+      {
+        "id": "q9-GKDRNOI4",
+        "title": "Week 06   Tutorial 03"
+      },
+      {
+        "id": "MbHIGidPL-w",
+        "title": "Week 06   Tutorial 04"
+      },
+      {
+        "id": "jlB2kQ-ardc",
+        "title": "Week 06 - Tutorial 05"
+      },
+      {
+        "id": "t6PA2E_G0do",
+        "title": "Week 06   Tutorial 06"
+      },
+      {
+        "id": "D3jQmnIzbUM",
+        "title": "Week 06   Tutorial 07"
+      },
+      {
+        "id": "vTrRpFbt4ZU",
+        "title": "Week 6 tutorial 08"
+      },
+      {
+        "id": "QE0Wq0AWiIE",
+        "title": "Week 6 tutorial 09"
+      },
+      {
+        "id": "Ld3YhUNRk6c",
+        "title": "week 6 tutorial 10"
+      },
+      {
+        "id": "oATXqim4F5Q",
+        "title": "What is the rank/dimension for a vector space"
+      },
+      {
+        "id": "0yEKEavVQJE",
+        "title": "Rank and dimension using Gaussian elimination"
+      },
+      {
+        "id": "3_U6oMJeklc",
+        "title": "The null space of a matrix : finding nullity and a basis - Part 1"
+      },
+      {
+        "id": "sDKAGDJlSAE",
+        "title": "The null space of a matrix : finding nullity and a basis - Part 2"
+      },
+      {
+        "id": "MvCkhmYhTkw",
+        "title": "What is a linear mapping - Part 1"
+      },
+      {
+        "id": "aRNE_GrR0Yk",
+        "title": "What is a linear mapping - Part 2"
+      }
+    ]
+  },
+  "week8": {
+    "title": "Week 8",
+    "videos": [
+      {
+        "id": "6jA-RRGbmOw",
+        "title": "What is a linear transformation"
+      },
+      {
+        "id": "_Hj2FqJ5xZM",
+        "title": "Week 07 - Tutorial 01"
+      },
+      {
+        "id": "fnrOwu-Veoc",
+        "title": "Week 07 - Tutorial 02"
+      },
+      {
+        "id": "FNZ0LJEE-7E",
+        "title": "Week 07 - Tutorial 03"
+      },
+      {
+        "id": "jl12b0JYLbk",
+        "title": "Week 07 - Tutorial 04"
+      },
+      {
+        "id": "pX5LCYHDJKY",
+        "title": "Week 07 - Tutorial 05"
+      },
+      {
+        "id": "jS2rZVsBqjg",
+        "title": "Week 07 - Tutorial 06"
+      },
+      {
+        "id": "5VDV90OpB5Y",
+        "title": "Week 07 - Tutorial 07"
+      },
+      {
+        "id": "lVX2mih3mcQ",
+        "title": "Linear transformations, ordered bases and matrices"
+      },
+      {
+        "id": "e4BXKGcntiQ",
+        "title": "Image and kernel of linear transformations"
+      },
+      {
+        "id": "5slY2FjErkc",
+        "title": "Examples of  finding bases for the kernel and image of a linear transformation"
+      },
+      {
+        "id": "ORWbVJ54hW8",
+        "title": "Equivalence and similarity of matrices"
+      },
+      {
+        "id": "RUJInY6skG0",
+        "title": "Affine subspaces and affine mappings"
+      },
+      {
+        "id": "AUPInEfil_4",
+        "title": "Week 08 - Tutorial 01"
+      }
+    ]
+  },
+  "week9": {
+    "title": "Week 9",
+    "videos": [
+      {
+        "id": "P6tBnX1CdZo",
+        "title": "Week 08 - Tutorial 02"
+      },
+      {
+        "id": "FcWl3vxK_zY",
+        "title": "Week 08 - Tutorial 02"
+      },
+      {
+        "id": "j1nHvWyoaYk",
+        "title": "Week 08 - Tutorial 04"
+      },
+      {
+        "id": "ma3KcWIMHFg",
+        "title": "Week 08 - Tutorial 05"
+      },
+      {
+        "id": "RoJDTZIsOck",
+        "title": "Week 08 - Tutorial 06"
+      },
+      {
+        "id": "TtQ6AQUlwl0",
+        "title": "Lengths and angles"
+      },
+      {
+        "id": "HH2Md3dBlq4",
+        "title": "Inner products and norms on a vector space"
+      },
+      {
+        "id": "2qruaPxQUJU",
+        "title": "Orthogonal transformations and rotations"
+      },
+      {
+        "id": "T646BdbrRm0",
+        "title": "What is an orthonormal basis?"
+      },
+      {
+        "id": "Qyiw4opSG9U",
+        "title": "Projections using inner products"
+      },
+      {
+        "id": "WEpy57pYKH4",
+        "title": "The Gram-Schmidt process"
+      },
+      {
+        "id": "G9bYPb-qSfw",
+        "title": "Orthgonality and linear independence"
+      },
+      {
+        "id": "JYmLAB2eDXo",
+        "title": "Week 09 - Tutorial 01"
+      },
+      {
+        "id": "al01RaBUkIo",
+        "title": "Week 09 - Tutorial 02"
+      }
+    ]
+  },
+  "course-path": "/iitm-bs-ds/foundation/maths2/"
+}

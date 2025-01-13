@@ -1,0 +1,62 @@
+category:
+  - iitm-bs-ds
+  - foundation
+contents:
+  week1:
+    title: "Week 1"
+    videos:
+      - id: "CMGiNKcVSek"
+        title: "Introduction to Data Science"
+      - id: "MaJmUUtr2SI"
+        title: "Regression Analysis"
+      - id: "CMGiNKcVSekBfVoq4g"
+        title: "Deep Learning Basics"
+    notes:
+      n1: "note-v1.md"
+    books:
+      b1: "book1_link"
+      b2: "book2_link"
+    questions:
+      q1: "questions-v1.md"
+      q2: "questions-v2.md"
+
+sidebar:
+    - text: "Course"
+      base: "/base"
+      items:
+        - text: "About the Course"
+          link: "about"
+        - text: "General Information and Links"
+          link: "info"
+        - text: "Reference"
+          link: "reference"
+    - text: "Contents"
+      base: "/base"
+      items:
+        - text: "Week 1"
+          link: "week1"
+        - text: "Week 2"
+          link: "week2"
+        - text: "Week 3"
+          link: "week3"
+    - text: Some fun content
+      items: 
+      - text: "Example"
+        link: https://www.example.com
+
+
+basic-info:
+  title: "Some title"
+  basic-files:
+    - name: about
+      text: About the Course
+    - name: info
+      text: Infomatin and linke
+  base-url: "/base"
+  playlist-url: "url"
+  strategy: "topics week"
+  topics: 
+    - title: "Week 1"
+      span: 1-5
+    - title: " Week 2"
+      span: 6-10

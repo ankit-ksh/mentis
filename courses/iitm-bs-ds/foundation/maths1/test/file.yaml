@@ -1,0 +1,453 @@
+basic-info:
+  base-url: /base
+  basic-files:
+  - name: about
+    text: About the Course
+  - name: info
+    text: Infomatin and linke
+  playlist-url: https://www.youtube.com/playlist?list=PLZ2ps__7DhBZYDZo9A0pZ_i0xhstrk5cR
+  strategy: equally 12
+contents:
+  part1:
+    title: Part 1
+    videos:
+    - id: F9BZ5JsnjYM
+      title: Mathematics for Data Science 1 - Introduction
+    - id: WEC6jPWvoj8
+      title: Lec 01 - Natural Numbers and Their Operations
+    - id: jHBIJ50DhJQ
+      title: Lec 02 - Rational Numbers
+    - id: hz7cuJj17wU
+      title: Lec 03 - Real and Complex Numbers
+    - id: 8z04uTycZpE
+      title: Lec 04 - Set Theory
+    - id: Ue3y-OE_2lE
+      title: Lec 05 - Construction of Subsets and Set Operations
+    - id: bW5O7a1VX4w
+      title: 'Lec 5 A - Sets: Examples'
+    - id: NwYHojyw3SU
+      title: Lec 5 B - Examples of Set Operations and Counting Problems
+    - id: _bNfC5yW6bk
+      title: Lec 06  - Relations
+    - id: M-nlI2fgaWI
+      title: Lec 07 - Functions
+    - id: 6CyagSq3fWA
+      title: 'Lec 7 A - Relations: examples'
+    - id: 6YrUx0bAnuQ
+      title: 'Lec 7 B - Function: examples'
+    - id: 98NeCye2i3k
+      title: Lec 08 - Prime Numbers
+    - id: xUZeskT6WiQ
+      title: Lec 09 - Why is a Number Irrational?
+    - id: kM9nVJks1a8
+      title: Lec 10 - Sets versus Collections
+    - id: yjJ_pualJr4
+      title: Lec 11 - Degrees of Infinity
+  part10:
+    title: Part 10
+    videos:
+    - id: 8-EHrKfs1CI
+      title: Week 09 - Tutorial 5
+    - id: HfED70SLiNo
+      title: Week 09 - Tutorial 6
+    - id: MYfmxVWZlwA
+      title: Week 9 - Practice Assignment Solution
+    - id: wtQ6RtTwCVk
+      title: Lec 59 - Introduction to Graphs
+    - id: 4K2wZkFKqIY
+      title: Lec 60 - Some general graph problems
+    - id: 4M-1F4DORps
+      title: Lec 61 - Representation of graphs
+    - id: WPaX9PFJY_4
+      title: Lec 62 - Breadth-first search
+    - id: 1BvUzBkyD_o
+      title: Lec 63 - Depth-first search
+    - id: l56BfAgi5LA
+      title: Lec 64 - Applications of BFS and DFS-1
+    - id: yD4mk9nD_-s
+      title: Lec 65 - Applications of BFS and DFS-2
+    - id: voQeqd7W4-U
+      title: Week 10 - Tutorial 01
+    - id: mAysETm0IAM
+      title: Week 10 - Tutorial 02
+    - id: 27CmZi3ImTY
+      title: Week 10 - Tutorial 3
+    - id: rCiV-4ceYRU
+      title: Lec 66 - Complexity of BFS and DFS
+    - id: -VKVovlBnwE
+      title: Lec 67 - Directed Acyclic Graphs
+    - id: Rax3k-rCYkY
+      title: Lec 68 - Topological Sorting
+  part11:
+    title: Part 11
+    videos:
+    - id: 934a17SB5NY
+      title: Lec 69 - Longest Paths in DAGs
+    - id: 6Ax9K7gSuJE
+      title: Lec 70 - Transitive Closure
+    - id: N_PvNrQXUg4
+      title: Lec 71 - Matrix Multiplication
+    - id: 4l_g6IQz6Go
+      title: Le 72 - Shortest Paths in Weighted Graphs
+    - id: XXFcZyP2KlM
+      title: Lec 73 - Single Source Shortest Paths
+    - id: FGGMybRD4O4
+      title: Lec 74 - Single Source Shortest Paths with Negative Weights
+    - id: Rhm-0SD-NfE
+      title: Lec 75 - All-Pairs Shortest Paths
+    - id: 3GwJAstzzBk
+      title: Lec 76 - Minimum Cost Spanning Trees
+    - id: btr8zJBgaQg
+      title: 'Lec 77 - Minimum Cost Spanning Trees: Prim''s Algorithm'
+    - id: -0diRWTGgk8
+      title: 'Lec 78 - Minimum Cost Spanning Trees: Kruskal''s Algorithm'
+    - id: Zb09cvE7xp4
+      title: Week 03 - Graded Assignment Solution
+    - id: v6d5-rabNn0
+      title: Week 5 - Graded Assignment Solution
+    - id: LPoB9ZKMLZ4
+      title: Week 07 - Graded Assignment Solution
+    - id: zh5DbGuAzQA
+      title: Week 4 - Practice Assignment Solutions MSQ & NAT
+    - id: 6qEP5P4v6WQ
+      title: Week 4 - Practice Assignment Solutions MCQ
+    - id: lPGP7oxtsI8
+      title: Week 05 - Practice assignment solution
+  part12:
+    title: Part 12
+    videos:
+    - id: dteNmaw328E
+      title: Week 02 - Tutorial 08
+    - id: foP1VbOWVQ0
+      title: Week 2 - Graded Solution
+    - id: wwt98acivH8
+      title: Week 1 - Graded Solution
+    - id: n514TARtjyA
+      title: Revision lecture on Set Theory
+    - id: 7YA4CwJeUNw
+      title: Revision lecture on Relations
+    - id: PBqfqFqnvpw
+      title: Revision lecture on Polynomial graphing
+    - id: 9jbRtJjuNiY
+      title: Revision on Logarithmic function
+    - id: sHPX4vwNplo
+      title: Revision on Functions-1
+    - id: jCe_9qtCv7k
+      title: Revision on Basics of Graph Theory
+    - id: 3B63uAVzs08
+      title: Revision lecture on Exponential and Composite Function
+  part2:
+    title: Part 2
+    videos:
+    - id: KW6DgEYxLhs
+      title: Maths I Wk 1 Practice Assignment Solution Video
+    - id: laC9PHvi7BM
+      title: Maths Wk 1 Graded Solution
+    - id: RfG2NLXqGE8
+      title: Lec 12 - Rectangular Coordinate System
+    - id: aDhyAkXiDOY
+      title: Lec 13 - Distance Formula
+    - id: B5yv8zPrkek
+      title: Lec 14 - Section Formula
+    - id: x62fodF7ezk
+      title: Lec 15 - Area of a triangle
+    - id: V-b3BL8DAvU
+      title: Lec 16 - Slope of a Line
+    - id: CXhBGVfmtBg
+      title: Lec 17 - Parallel and Perpendicular Lines
+    - id: fKUK8xeuWNo
+      title: Lec 18 - Representation of a Line-1
+    - id: zM0q4y-y4so
+      title: Lec 19 - Representation of a Line-2
+    - id: XuCN4YF46iM
+      title: Lec 19A - Rectangular Co-ordinate system and its elementary applications
+    - id: ggpFtRiDUFA
+      title: Week 02 - Tutorial 01
+    - id: Qr7Kou01yj8
+      title: Week 02 - Tutorial 02
+    - id: sCoim0snAA8
+      title: Week 02 - Tutorial 03
+    - id: vq7_toO2kYg
+      title: Week 02 - Tutorial 04
+    - id: 1INLxb3f9YI
+      title: Week 02 - Tutorial 05
+  part3:
+    title: Part 3
+    videos:
+    - id: -fZvZdJhzUs
+      title: Week 02 - Tutorial 06
+    - id: dbJO3jF4WXs
+      title: Week 02 - Tutorial 07
+    - id: ORTfj35Hrcw
+      title: Week 02 - Tutorial 09
+    - id: _3Iidm8NnbM
+      title: Lec 20 - General Equation of  line
+    - id: gJuJtTYmbSs
+      title: Lec 21 - Equation of parallel and perpedicular lines in general form
+    - id: CjeHgCXhi4k
+      title: Lec 22 - Equation of a perpendicular line passing through a point
+    - id: tYSZ4L0X3kY
+      title: Lec 23 - Distance of a point from the given line
+    - id: xdZHsFuyBZM
+      title: Lec 24 - Straight Line Fit
+    - id: o3bliAPeITg
+      title: Lec 25 - Review of Straight line and slope
+    - id: xDJv3IPXzbo
+      title: Week 03   Tutorial   Point of Intersection of two lines
+    - id: liFQ6XE3yjM
+      title: Week 03 - Tutorial 01
+    - id: 158cd3s0F8k
+      title: Week 03 -Tutorial -02
+    - id: dUAoCjc3rTQ
+      title: Week 03 - Tutorial 03
+    - id: qEmKQwJtJGE
+      title: Week 03 - Tutorial 04
+    - id: naHjpSVM3FU
+      title: Week 03 - Tutorial 05
+    - id: EJ-xQkbr8mU
+      title: Week 03 - Tutorial 06
+  part4:
+    title: Part 4
+    videos:
+    - id: J3rs7MaSR1M
+      title: Week 03 - Tutorial 07
+    - id: j1KP8QmJB9k
+      title: Week 03 -Tutorial 08
+    - id: U4gr4zMosMk
+      title: Lec 25 A - Quadratic functions
+    - id: dvJKbgIPG8Q
+      title: Lec - 25 B - Examples of Quadratic Functions
+    - id: 1_Y2cZMrcfY
+      title: Lec 25 C - Slope of a Quadratic Function
+    - id: RzIBZbGov4w
+      title: Lec 26 - Solution of a Quadratic Equation using Graph
+    - id: kaByg1VQxqk
+      title: 'Lec 26 A - Slope: Line & Parabola'
+    - id: XKsxb2aRdiQ
+      title: Week 04 - Tutorial   01
+    - id: GLe86OGBSCo
+      title: Week 04  - Tutorial - 02
+    - id: R9f0je9RMNg
+      title: Week 04  - Tutorial - 03
+    - id: TZlrhtinZwM
+      title: Week 04  - Tutorial - 04
+    - id: dMwQWGyS2pA
+      title: Week 04  - Tutorial - 05
+    - id: FGoZgOBiGc0
+      title: Week 04  - Tutorial - 06
+    - id: vAflUyD4LWw
+      title: Week 04 - Tutorial - 07
+    - id: qva4TSPBA4g
+      title: Week 04 - Tutorial - 08
+    - id: nS5csm4GRNo
+      title: week 04 - Surface of Revolution
+  part5:
+    title: Part 5
+    videos:
+    - id: JkbFTVFw1yQ
+      title: Lec 26B - Summary lecture
+    - id: ZRXWkzFSZzU
+      title: Lec 27 - Solution of a quadratic equation using Factorization
+    - id: qvUX-jgtogg
+      title: Lec 28 - Solution of a Quadratic Equation using Square Method
+    - id: 1shGS3xfmwc
+      title: Lec 29 - Quadratic Formula
+    - id: YHkQPGXbmNU
+      title: Week 05   Tutorial 01
+    - id: oUZx4cYIpdk
+      title: Week 05   Tutorial 02
+    - id: 4AY5bW0hwNk
+      title: Week 05   Tutorial 03
+    - id: x7hweo9BhxY
+      title: Week 05   Tutorial 04
+    - id: hPBoJmRnmuE
+      title: Week 05   Tutorial 05
+    - id: yZLfnTv0Uy8
+      title: Week 05   Tutorial 06
+    - id: McFL8K7SvUk
+      title: Week 05   Tutorial 07
+    - id: rfj8d3FrEU4
+      title: Week 05 - Additional Lecture
+    - id: J8uQvJN_UWY
+      title: Lec 29A - Summary lecture
+    - id: 2PTcxG8e6os
+      title: Lec 30 - Polynomials
+    - id: s9zDRWmgsb4
+      title: Lec 31 - Degree of Polynomials
+    - id: KJXkTzKAZ6k
+      title: 'Lec 32 - Algebra of polynomials: Addition & Subtraction'
+  part6:
+    title: Part 6
+    videos:
+    - id: WOqISzw8jYs
+      title: 'Lec 33 - Algebra of polynomials: Multiplication'
+    - id: 2eWP19N8wn4
+      title: 'Lec 34 - Algebra of polynomials: Division'
+    - id: Y1_T6augNFo
+      title: Lec 35 - Division Algorithm
+    - id: Z6_zN6hHYzM
+      title: Week 06   Tutorial 01
+    - id: aA3is7Mx0rU
+      title: Week 06   Tutorial 02
+    - id: Z3v7rqHV24w
+      title: Week 06   Tutorial 03
+    - id: S5LzOq6JRJQ
+      title: Week 06   Tutorial 04
+    - id: liH472du-VE
+      title: Week 06   Tutorial 05
+    - id: syQeX4aKpBQ
+      title: Week 06   Tutorial 06
+    - id: NbZve1-mp0E
+      title: Week 06   Tutorial 07
+    - id: tpfN1ZhK8VM
+      title: Week 06   Tutorial 08
+    - id: JhbPbj8xsw0
+      title: "Week 06 \u2013 Additional Lecture"
+    - id: fbvj1w_NI9c
+      title: Week 06 - Weekly Summary
+    - id: 4vwTg7uyOMQ
+      title: Week 06   Practice Assignment Solution
+    - id: T3BWIk9hsiw
+      title: Week 06 - Graded Assignment Solution
+    - id: 5M_oX0EjiEk
+      title: 'Graphs of Polynomials: Identification and Characterization'
+  part7:
+    title: Part 7
+    videos:
+    - id: -E21FQ567F8
+      title: Lec 37 - Zeroes of Polynomial Functions
+    - id: -flkMRCNTPE
+      title: 'Lec 38 - Graphs of Polynomials: Multiplicities'
+    - id: 1t4-35dKUno
+      title: 'Lec 39 - Graphs of Polynomials: Behavior at X-intercepts'
+    - id: cggv0rx2yBo
+      title: 'Lec 40 - Graphs of Polynomials: End behavior'
+    - id: 8a--SspXSXU
+      title: 'Lec 41 - Graphs of Polynomials: Turning points'
+    - id: 6IVf5Af1nO0
+      title: 'Lec 42 - Graphs of Polynomials: Graphing & Polynomial creation'
+    - id: 4H49WeX1AF8
+      title: Week 07   Tutorial 01
+    - id: fmhDfVJapVQ
+      title: Week 07   Tutorial 02
+    - id: XEHEEW7Nt0E
+      title: Week 07   Tutorial 03
+    - id: 2HW6asEXWEU
+      title: Week 07   Tutorial 04
+    - id: X75oDymTpj8
+      title: Week 07 - Tutorial 05
+    - id: dbyOtQhdIXg
+      title: Week 07   Tutorial 06
+    - id: hFgUTj5ZbJg
+      title: Week 07   Tutorial 07
+    - id: vLrbA0Lfqeg
+      title: Week 07   Tutorial 08
+    - id: cM895dEB2xA
+      title: Week 07   Tutorial 09
+    - id: Z7cwVjqdenE
+      title: Week 07 - Summary lecture
+  part8:
+    title: Part 8
+    videos:
+    - id: 2zGNA2PxtOY
+      title: Week 07 - Practice Assignment Solution
+    - id: CiZrP2-cpGM
+      title: 'Lec 43 - One-to-One Function: Definition & Tests'
+    - id: em8Lw7g776M
+      title: 'Lec 44 - One-to-One Function: Examples & Theorems'
+    - id: 0l47NHJy-f4
+      title: 'Lec 45 - Exponential Functions: Definitions'
+    - id: dMvBjIeJe80
+      title: 'Lec 46 -  Exponential Functions: Graphing'
+    - id: d_LJM7F33uo
+      title: 'Lec 47 : Natural Exponential Function'
+    - id: T4Q2bg0jQZ8
+      title: 'Lec 48: Composite Functions'
+    - id: QfO-gh-Fpts
+      title: 'Lec 49: Composite Functions: Examples'
+    - id: 5u1OlsxuJnw
+      title: 'Lec 50: Composite Functions: Domain'
+    - id: BpoWKCrLm14
+      title: 'Lec 51: Inverse functions'
+    - id: K0aMjD527Mw
+      title: Week 08  - Tutorial 01
+    - id: hfEr9yWtO1E
+      title: Week 08 - Tutorial 02
+    - id: oEQrfi85nqo
+      title: Week 08 - Tutorial 03
+    - id: CVVQqNBtYFw
+      title: Week 08 - Tutorial 04
+    - id: 8GJzLNcsWVA
+      title: Week 08 - Tutorial 05
+    - id: ODzZ9p6vtlY
+      title: Week 08 - Tutorial 06
+  part9:
+    title: Part 9
+    videos:
+    - id: zI5K04KiJOc
+      title: Week 08  - Tutorial 07
+    - id: AzbVvbgz5zU
+      title: Week 08 - Tutorial 08
+    - id: tVoe7VtZXK8
+      title: Week 08 -  Additional lecture Inverse function
+    - id: 84fBo7_ha-0
+      title: Week 08 -  PRACTICE ASSIGNMENT SOLUTION
+    - id: tVoe7VtZXK8
+      title: Week 08 -  Additional lecture Inverse function
+    - id: G5A7imv2Otc
+      title: Lec 52 - Logarithmic Functions
+    - id: NL8MlTO-Yf8
+      title: 'Lec 53 - Logarithmic Functions: Graphs'
+    - id: Q5ef_uFX7ug
+      title: Lec 54 - Solving Exponential Equations
+    - id: 0WQFcv-wjiI
+      title: 'Lec 55 - Logarithmic Functions: Properties  - 1'
+    - id: XSJ1QZ0MHOs
+      title: 'Lec 56 - Logarithmic Functions: Applications'
+    - id: eMt8xq0Fuww
+      title: Lec 57 - Logarithmic Functions:Properties - 2
+    - id: bB1um2s0NDE
+      title: Lec 58 - Logarithmic Equations
+    - id: 2jFIeTvKg1E
+      title: Week 09 - Tutorial 1
+    - id: jk2Laj0L5YI
+      title: Week 09 - Tutorial 2
+    - id: UNhLOmnDoMY
+      title: Week 09 - Tutorial 3
+    - id: YG5pvyZI6JM
+      title: Week 09 - Tutorial 4
+sidebar:
+- base: /base
+  items:
+  - link: about
+    text: About the Course
+  - link: info
+    text: Infomatin and linke
+  text: Course
+- base: /base
+  items:
+  - link: part1
+    text: Part 1
+  - link: part2
+    text: Part 2
+  - link: part3
+    text: Part 3
+  - link: part4
+    text: Part 4
+  - link: part5
+    text: Part 5
+  - link: part6
+    text: Part 6
+  - link: part7
+    text: Part 7
+  - link: part8
+    text: Part 8
+  - link: part9
+    text: Part 9
+  - link: part10
+    text: Part 10
+  - link: part11
+    text: Part 11
+  - link: part12
+    text: Part 12
+  text: Contents

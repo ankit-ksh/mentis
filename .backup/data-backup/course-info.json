@@ -1,0 +1,41 @@
+{
+  "level": "foundation",
+  "course_acronym": "maths1",
+  "contents": [
+    {
+      "topic": "Introduction to Calculus",
+      "videos": [
+        { "id": "CMGiNKcVSek", "title": "Introduction to Data Science" },
+        { "id": "MaJmUUtr2SI", "title": "Regression Analysis" },
+        { "id": "CMGiNKcVSekBfVoq4g", "title": "Deep Learning Basics" }
+      ],
+      "notes": {
+        "n1": "note-v1.md"
+      },
+      "books": {
+          "b1": "book1_link",
+          "b2": "book2_link"
+      },
+      "questions": {
+        "q1": "questions-v1.md",
+        "q2": "questions-v2.md"
+      }
+    }
+  ],
+  "sidebar": [
+    {
+      "text": "Course", 
+      "items": [
+        { "text": "About the Course", "link": "about" },
+        { "text": "General Information and Links", "link": "info" },
+        { "text": "Reference", "link": "reference" }
+      ]
+    },
+    {
+      "text": "Contents", "items": [
+        { "text": "Week 1", "link": "week1" },
+        { "text": "Week 2", "link": "week2" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,505 @@
+{
+  "foundation": [
+    {
+      "title": "Mathematics for Data Science I",
+      "acronym": "maths1",
+      "instructors": "Prof. Neelesh Upadhye, Madhavan Mukund",
+      "wiki_link": "/foundation/maths1/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example1",
+      "portal_link": "https://portal.example.com/foundation/maths1",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Mathematics for Data Science II",
+      "acronym": "maths2",
+      "instructors": "Prof. Sarang S Sane",
+      "wiki_link": "/foundation/maths2/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example2",
+      "portal_link": "https://portal.example.com/foundation/maths2",
+      "prerequisites": "Mathematics for Data Science I"
+    },
+    {
+      "title": "Statistics for Data Science I",
+      "acronym": "stats1",
+      "instructors": "Prof. Usha Mohan",
+      "wiki_link": "/foundation/stats1/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example3",
+      "portal_link": "https://portal.example.com/foundation/stats1",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Statistics for Data Science II",
+      "acronym": "stats2",
+      "instructors": "Prof. Andrew Thangaraj",
+      "wiki_link": "/foundation/stats2/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example4",
+      "portal_link": "https://portal.example.com/foundation/stats2",
+      "prerequisites": "Statistics for Data Science I"
+    },
+    {
+      "title": "Computational Thinking",
+      "acronym": "ct",
+      "instructors": "Prof. Madhavan Mukund, Dr. G Venkatesh",
+      "wiki_link": "/foundation/ct/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example5",
+      "portal_link": "https://portal.example.com/foundation/ct",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Programming in Python",
+      "acronym": "python",
+      "instructors": "Prof. Sudarshan Iyengar",
+      "wiki_link": "/foundation/python/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example6",
+      "portal_link": "https://portal.example.com/foundation/python",
+      "prerequisites": "None"
+    },
+    {
+      "title": "English I",
+      "acronym": "english1",
+      "instructors": "Prof. Rajesh Kumar, Karthika Sathyanathan",
+      "wiki_link": "/foundation/english1/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example7",
+      "portal_link": "https://portal.example.com/foundation/english1",
+      "prerequisites": "None"
+    },
+    {
+      "title": "English II",
+      "acronym": "english2",
+      "instructors": "Prof. Rajesh Kumar, Karthika Sathyanathan",
+      "wiki_link": "/foundation/english2/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example8",
+      "portal_link": "https://portal.example.com/foundation/english2",
+      "prerequisites": "English I"
+    }
+  ],
+  "diploma_programming": [
+    {
+      "title": "System Commands",
+      "acronym": "sc",
+      "instructors": "Prof. Gandham Phanikumar",
+      "wiki_link": "/diploma/programming/sc/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example9",
+      "portal_link": "https://portal.example.com/diploma/programming/sc",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Database Management Systems",
+      "acronym": "dbms",
+      "instructors": "Prof. Partha Pratim Das",
+      "wiki_link": "/diploma/programming/dbms/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example10",
+      "portal_link": "https://portal.example.com/diploma/programming/dbms",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Programming, Data Structures and Algorithms using Python",
+      "acronym": "pdsa",
+      "instructors": "Prof. Madhavan Mukund",
+      "wiki_link": "/diploma/programming/pdsa/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example11",
+      "portal_link": "https://portal.example.com/diploma/programming/pdsa",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Programming Concepts using Java",
+      "acronym": "java",
+      "instructors": "Prof. Madhavan Mukund",
+      "wiki_link": "/diploma/programming/java/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example12",
+      "portal_link": "https://portal.example.com/diploma/programming/java",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Modern Application Development I",
+      "acronym": "mad1",
+      "instructors": "Thejesh G N, Prof. Nitin Chandrachoodan",
+      "wiki_link": "/diploma/programming/mad1/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example13",
+      "portal_link": "https://portal.example.com/diploma/programming/mad1",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Modern Application Development I - Project",
+      "acronym": "mad1-project",
+      "instructors": "Thejesh G N, Prof. Nitin Chandrachoodan",
+      "wiki_link": "/diploma/programming/mad1-project/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example14",
+      "portal_link": "https://portal.example.com/diploma/programming/mad1-project",
+      "prerequisites": "Modern Application Development I"
+    },
+    {
+      "title": "Modern Application Development II",
+      "acronym": "mad2",
+      "instructors": "Thejesh G N, Prof. Nitin Chandrachoodan",
+      "wiki_link": "/diploma/programming/mad2/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example15",
+      "portal_link": "https://portal.example.com/diploma/programming/mad2",
+      "prerequisites": "Modern Application Development I"
+    },
+    {
+      "title": "Modern Application Development II - Project",
+      "acronym": "mad2-project",
+      "instructors": "Thejesh G N, Prof. Nitin Chandrachoodan",
+      "wiki_link": "/diploma/programming/mad2-project/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example16",
+      "portal_link": "https://portal.example.com/diploma/programming/mad2-project",
+      "prerequisites": "Modern Application Development II"
+    }
+  ],
+  "diploma_data_science": [
+    {
+      "title": "Machine Learning Foundations",
+      "acronym": "mlf",
+      "instructors": "Prof. Harish Guruprasad Ramaswamy, Arun Rajkumar, Prashanth LA",
+      "wiki_link": "/diploma/data-science/mlf/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example17",
+      "portal_link": "https://portal.example.com/diploma/data-science/mlf",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Machine Learning Techniques",
+      "acronym": "mlt",
+      "instructors": "Prof. Arun Rajkumar",
+      "wiki_link": "/diploma/data-science/mlt/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example18",
+      "portal_link": "https://portal.example.com/diploma/data-science/mlt",
+      "prerequisites": "Machine Learning Foundations"
+    },
+    {
+      "title": "Machine Learning Practice",
+      "acronym": "mlp",
+      "instructors": "Prof. Ashish Tendulkar",
+      "wiki_link": "/diploma/data-science/mlp/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example19",
+      "portal_link": "https://portal.example.com/diploma/data-science/mlp",
+      "prerequisites": "Machine Learning Techniques"
+    },
+    {
+      "title": "Machine Learning Practice - Project",
+      "acronym": "mlp-project",
+      "instructors": "Prof. Ashish Tendulkar",
+      "wiki_link": "/diploma/data-science/mlp-project/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example20",
+      "portal_link": "https://portal.example.com/diploma/data-science/mlp-project",
+      "prerequisites": "Machine Learning Practice"
+    },
+    {
+      "title": "Business Data Management",
+      "acronym": "bdm",
+      "instructors": "Dr. G Venkatesh, Prof. Suresh Babu, Dr. Milind Gandhe",
+      "wiki_link": "/diploma/data-science/bdm/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example21",
+      "portal_link": "https://portal.example.com/diploma/data-science/bdm",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Business Data Management - Project",
+      "acronym": "bdm-project",
+      "instructors": "Dr. Ashwin J. Baliga, Dr. Aaditya Chandel, Dr. G Venkatesh, Dr. Milind Gandhe",
+      "wiki_link": "/diploma/data-science/bdm-project/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example22",
+      "portal_link": "https://portal.example.com/diploma/data-science/bdm-project",
+      "prerequisites": "Business Data Management"
+    },
+    {
+      "title": "Business Analytics",
+      "acronym": "ba",
+      "instructors": "Prof. Rahul R Marathe",
+      "wiki_link": "/diploma/data-science/ba/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example23",
+      "portal_link": "https://portal.example.com/diploma/data-science/ba",
+      "prerequisites": "None"
+    },
+    {
+      "title": "Tools in Data Science",
+      "acronym": "tds",
+      "instructors": "Prof. S Anand",
+      "wiki_link": "/diploma/data-science/tds/",
+      "playlist_link": "https://www.youtube.com/playlist?list=example24",
+      "portal_link": "https://portal.example.com/diploma/data-science/tds",
+      "prerequisites": "None"
+    }
+  ],
+  "degree": [
+    {
+        "title": "Software Engineering",
+        "acronym": "se",
+        "instructors": "Prof. Sridhar Iyer, Prof. Prajish Prasad",
+        "wiki_link": "/degree/se",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Software Testing",
+        "acronym": "software-testing",
+        "instructors": "Prof. Sridhar Iyer, Prof. Prajish Prasad",
+        "wiki_link": "/degree/software-testing",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "AI: Search Methods for Problem Solving",
+        "acronym": "ai-smps",
+        "instructors": "Prof. Deepak Khemani",
+        "wiki_link": "/degree/ai-smps",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Deep Learning",
+        "acronym": "dl",
+        "instructors": "Prof. Mitesh M. Khapra",
+        "wiki_link": "/degree/dl",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Strategies for Professional Growth",
+        "acronym": "spg",
+        "instructors": "Prof. Sivakumar M S, Lt. Col. Jayakumar, Prasanna G, Shiva Subramaniam, Kartic Vaidyanathan, Senthil A V, Prathap Haridoss",
+        "wiki_link": "/degree/spg/",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Algorithmic Thinking in Bioinformatics",
+        "acronym": "atb",
+        "instructors": "",
+        "wiki_link": "/degree/atb",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Big Data and Biological Networks",
+        "acronym": "bdbn",
+        "instructors": "Prof. Nirav P Bhatt, Prof. Karthik Raman, Prof. Himanshu Sinha",
+        "wiki_link": "/degree/bdbn",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Data Visualization Design",
+        "acronym": "dvd",
+        "instructors": "Prof. Venkat",
+        "wiki_link": "/degree/dvd",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Special topics in Machine Learning (Reinforcement Learning)",
+        "acronym": "rl",
+        "instructors": "Prof. Balaraman Ravindran",
+        "wiki_link": "/degree/rl",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Speech Technology",
+        "acronym": "speech-technology",
+        "instructors": "Prof. S. Umesh, Prof. Hema A Murthy",
+        "wiki_link": "/degree/speech-technology",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Design Thinking for Data-Driven App Development",
+        "acronym": "dt",
+        "instructors": "Bala Ramadurai, Prathap Haridoss",
+        "wiki_link": "/degree/dt",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Industry 4.0",
+        "acronym": "i4",
+        "instructors": "Prof. Rahul R Marathe",
+        "wiki_link": "/degree/i4",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Sequential Decision Making",
+        "acronym": "sdm",
+        "instructors": "Prof. Arun Rajkumar",
+        "wiki_link": "/degree/sdm",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Market Research",
+        "acronym": "mr",
+        "instructors": "Prof. Ashok Sankethi",
+        "wiki_link": "/degree/mr",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Privacy & Security in Online Social Media",
+        "acronym": "psosm",
+        "instructors": "Prof. Ponnurangam Kumaraguru",
+        "wiki_link": "/degree/psosm",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Introduction to Big Data",
+        "acronym": "bd",
+        "instructors": "Prof. Rangarajan Vasudevan",
+        "wiki_link": "/degree/bd",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Financial Forensics",
+        "acronym": "ff",
+        "instructors": "Prof. Arun Kumar G",
+        "wiki_link": "/degree/ff",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Linear Statistical Models",
+        "acronym": "lsm",
+        "instructors": "Prof. Siva Athreya",
+        "wiki_link": "/degree/lsm",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Advanced Algorithms",
+        "acronym": "aa",
+        "instructors": "Prof. Neeldhara Misra",
+        "wiki_link": "/degree/aa",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Statistical Computing",
+        "acronym": "sc",
+        "instructors": "Prof. Dootika Vats",
+        "wiki_link": "/degree/sc",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Computer Systems Design",
+        "acronym": "csd",
+        "instructors": "Prof. Ayon Chakraborty",
+        "wiki_link": "/degree/csd",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Programming in C",
+        "acronym": "c",
+        "instructors": "Prof. Nitin Chandrachoodan",
+        "wiki_link": "/degree/c",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Mathematical Thinking",
+        "acronym": "mt",
+        "instructors": "Prof. Amritanshu Prasad, Prof. Sankaran Viswanath",
+        "wiki_link": "/degree/mt",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Large Language Models",
+        "acronym": "llm",
+        "instructors": "Prof. Mitesh M. Khapra",
+        "wiki_link": "/degree/llm",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Introduction to Natural Language Processing (i-NLP)",
+        "acronym": "nlp",
+        "instructors": "Prof. Parameswari Krishnamurthy, Prof. Rahul Mishra",
+        "wiki_link": "/degree/nlp",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Deep Learning for Computer Vision",
+        "acronym": "dlcv",
+        "instructors": "Prof. Vineeth N. B.",
+        "wiki_link": "/degree/dlcv",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Managerial Economics",
+        "acronym": "me",
+        "instructors": "Prof. Vimal Kumar",
+        "wiki_link": "/degree/me",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Game Theory and Strategy",
+        "acronym": "gts",
+        "instructors": "",
+        "wiki_link": "/degree/gts",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Corporate Finance",
+        "acronym": "cf",
+        "instructors": "Prof. Mitesh M. Khapra",
+        "wiki_link": "/degree/cf",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Deep Learning Practice",
+        "acronym": "dlp",
+        "instructors": "Prof. Mitesh M. Khapra, Prof. S. Umesh, Dr. Kaushik Mitra",
+        "wiki_link": "/degree/dlp",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    },
+    {
+        "title": "Operating System",
+        "acronym": "os",
+        "instructors": "Prof. Chester Rebeiro",
+        "wiki_link": "/degree/os",
+        "playlist_link": "https://www.youtube.com/playlist?list=example24",
+        "portal_link": "https://portal.example.com/diploma/data-science/tds",
+        "prerequisites": "None"
+    }
+]
+}

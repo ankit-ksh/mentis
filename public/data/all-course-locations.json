@@ -1,0 +1,14 @@
+{
+    "iitm-bs-ds": {
+        "foundation": {
+            "maths1": "/courses/iitm-bs-ds/foundation/maths1/",
+            "maths2": "/courses/iitm-bs-ds/foundation/maths2/"
+        },
+        "diploma-programming": {
+            "java": "/courses/iitm-bs-ds/diploma-programming/java/"
+        }
+    },
+    "nptel": {
+        "course1": "/courses/nptel/course1/"
+    }
+}

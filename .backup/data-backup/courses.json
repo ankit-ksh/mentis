@@ -1,0 +1,171 @@
+{
+  "iitm-bs-ds": {
+    "foundation": {
+      "maths1": {
+        "url": "/courses/iitm-bs-ds/foundation/maths1/",
+        "content": {
+          "category": [
+            "iitm-bs-ds",
+            "foundation"
+          ],
+          "contents": {
+            "week1": {
+              "title": "Week 1",
+              "videos": [
+                {
+                  "id": "CMGiNKcVSek",
+                  "title": "Introduction to Data Science"
+                },
+                {
+                  "id": "MaJmUUtr2SI",
+                  "title": "Regression Analysis"
+                },
+                {
+                  "id": "CMGiNKcVSekBfVoq4g",
+                  "title": "Deep Learning Basics"
+                }
+              ],
+              "notes": {
+                "n1": "note-v1.md"
+              },
+              "books": {
+                "b1": "book1_link",
+                "b2": "book2_link"
+              },
+              "questions": {
+                "q1": "questions-v1.md",
+                "q2": "questions-v2.md"
+              }
+            }
+          },
+          "sidebar": {
+            "base": "/iitm-bs-ds/foundation/maths1/",
+            "items": [
+              {
+                "text": "Course",
+                "items": [
+                  {
+                    "text": "About the Course",
+                    "link": "about"
+                  },
+                  {
+                    "text": "General Information and Links",
+                    "link": "info"
+                  },
+                  {
+                    "text": "Reference",
+                    "link": "reference"
+                  }
+                ]
+              },
+              {
+                "text": "Contents",
+                "items": [
+                  {
+                    "text": "Week 1",
+                    "link": "week1"
+                  },
+                  {
+                    "text": "Week 2",
+                    "link": "week2"
+                  },
+                  {
+                    "text": "Week 3",
+                    "link": "week3"
+                  }
+                ]
+              },
+              {
+                "text": "Some fun content"
+              }
+            ]
+          }
+        }
+      },
+      "maths2": {
+        "url": {
+          "url": "/courses/iitm-bs-ds/foundation/maths2/",
+          "content": {
+            "contents": {
+              "week1": {
+                "title": "Week 1",
+                "videos": [
+                  {
+                    "id": "CMGiNKcVSek",
+                    "title": "Introduction to Data Science"
+                  },
+                  {
+                    "id": "MaJmUUtr2SI",
+                    "title": "Regression Analysis"
+                  },
+                  {
+                    "id": "CMGiNKcVSekBfVoq4g",
+                    "title": "Deep Learning Basics"
+                  }
+                ],
+                "notes": {
+                  "n1": "note-v1.md"
+                },
+                "books": {
+                  "b1": "book1_link",
+                  "b2": "book2_link"
+                },
+                "questions": {
+                  "q1": "questions-v1.md",
+                  "q2": "questions-v2.md"
+                }
+              }
+            },
+            "sidebar": {
+              "base": "/iitm-bs-ds/foundation/maths1/",
+              "items": [
+                {
+                  "text": "Course",
+                  "items": [
+                    {
+                      "text": "About the Course",
+                      "link": "about"
+                    },
+                    {
+                      "text": "General Information and Links",
+                      "link": "info"
+                    },
+                    {
+                      "text": "Reference",
+                      "link": "reference"
+                    }
+                  ]
+                },
+                {
+                  "text": "Contents",
+                  "items": [
+                    {
+                      "text": "Week 1",
+                      "link": "week1"
+                    },
+                    {
+                      "text": "Week 2",
+                      "link": "week2"
+                    },
+                    {
+                      "text": "Week 3",
+                      "link": "week3"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  },
+  "nptel": {
+    "course1": {
+      "url": "/courses/nptel/course1/",
+      "content": {
+        "course name": "hello"
+      }
+    }
+  }
+}
